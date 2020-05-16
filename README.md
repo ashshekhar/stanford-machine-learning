@@ -1,1 +1,3 @@
-# stanford-machine-learning
+# Machine Learning
+
+### Notes by Prof. Andrew Ng
