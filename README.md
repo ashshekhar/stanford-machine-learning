@@ -1,3 +1,3 @@
 # Machine Learning
 
-### Notes by Prof. Andrew Ng
+### Course by Prof. Andrew Ng
